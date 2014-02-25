@@ -4,7 +4,5 @@
 #except for my config files
 !.gitignore
 !.inputrc
-!.bashrc
-!.bash_profile
 !.tmux.conf
 
